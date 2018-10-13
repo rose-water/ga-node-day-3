@@ -1,0 +1,14 @@
+#myDiv {
+  color: white;
+  font-family: 'Inconsolata', monospace; 
+}
+
+.trainDiv {
+  border: 1px solid black;
+  margin: 16px;
+  padding: 16px;
+}
+
+body {
+  background: #4c98aa;
+}
